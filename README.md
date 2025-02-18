@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ömer Faruk
-- 👀 I’m interested in coding as a hobby. I have small knowledge about C#, ASP.NET and Unity. Also interested in 3D moddeling using Blender.
+- 👀 I’m interested in coding as a hobby. I have small knowledge about Py, C#, ASP.NET and Unity. Also interested in 3D modelling using Blender.
 - 🌱 I’m currently learning Arduino coding with C++.
 - 💞️ I’m looking to ...
 - 📫 How to reach me ...
